@@ -1,7 +1,7 @@
 # Maintenance request tracker
 
 A small Django application for recording maintenance requests. You can list, create, view, edit and delete requests through a simple Bootstrap interface.
-
+ 
 ## Requirements
 
 - Python 3.12 or newer (Django 6.1 does not support older versions)
